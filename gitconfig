@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = robinatalbert@gmail.com
+	name = Albert Robinat
